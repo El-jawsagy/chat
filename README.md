@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+- this app build by use flutter framework and firebase 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
